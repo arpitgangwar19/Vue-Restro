@@ -1,0 +1,121 @@
+{
+  "user": [
+    {
+      "user": "gangwar",
+      "username": "arpit",
+      "lastname": "vijay",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "user": "gangwar",
+      "username": "shiva ",
+      "lastname": "vijay",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "user": "",
+      "username": "",
+      "lastname": "",
+      "password": "",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Mission Chinese Food",
+      "neighborhood": "Manhattan",
+      "photograph": "1.jpg",
+      "address": "171 E Broadway, New York, NY 10002",
+      "cuisine_type": "Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Emily",
+      "neighborhood": "Brooklyn",
+      "photograph": "2.jpg",
+      "address": "919 Fulton St, Brooklyn, NY 11238",
+      "cuisine_type": "Pizza"
+    },
+    {
+      "id": 3,
+      "name": "Kang Ho Dong Baekjeong",
+      "neighborhood": "Manhattan",
+      "photograph": "3.jpg",
+      "address": "1 E 32nd St, New York, NY 10016",
+      "cuisine_type": "Asian"
+    },
+    {
+      "id": 4,
+      "name": "Katz's Delicatessen",
+      "neighborhood": "Manhattan",
+      "photograph": "4.jpg",
+      "address": "205 E Houston St, New York, NY 10002",
+      "cuisine_type": "American"
+    },
+    {
+      "id": 5,
+      "name": "Roberta's Pizza",
+      "neighborhood": "Brooklyn",
+      "photograph": "5.jpg",
+      "address": "261 Moore St, Brooklyn, NY 11206",
+      "cuisine_type": "Pizza"
+    },
+    {
+      "id": 6,
+      "name": "Hometown BBQ",
+      "neighborhood": "Brooklyn",
+      "photograph": "6.jpg",
+      "address": "454 Van Brunt St, Brooklyn, NY 11231",
+      "cuisine_type": "American"
+    },
+    {
+      "id": 7,
+      "name": "Superiority Burger",
+      "neighborhood": "Manhattan",
+      "photograph": "7.jpg",
+      "address": "430 E 9th St, New York, NY 10009",
+      "cuisine_type": "American"
+    },
+    {
+      "id": 8,
+      "name": "The Dutch",
+      "neighborhood": "Manhattan",
+      "photograph": "8.jpg",
+      "address": "131 Sullivan St, New York, NY 10012",
+      "cuisine_type": "American"
+    },
+    {
+      "id": 9,
+      "name": "Mu Ramen",
+      "neighborhood": "Queens",
+      "photograph": "9.jpg",
+      "address": "1209 Jackson Ave, Queens, NY 11101",
+      "cuisine_type": "Asian"
+    },
+    {
+      "id": 10,
+      "name": "Casa Enrique",
+      "neighborhood": "Queens",
+      "photograph": "10.jpg",
+      "address": "5-48 49th Ave, Queens, NY 11101",
+      "cuisine_type": "Mexican"
+    },
+    {
+      "name": "",
+      "neighborhood": "",
+      "address": "",
+      "cuisine_type": "",
+      "id": 11
+    },
+    {
+      "name": "Hayat",
+      "neighborhood": "India",
+      "address": "Delhi",
+      "cuisine_type": "SHahi",
+      "id": 12
+    }
+  ]
+}
